@@ -69,6 +69,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgements
-Special thanks to ACLED for providing the conflict data used in this project.
-Thanks to the Streamlit, Scikit-learn, and TensorFlow communities for providing excellent tools for data science and machine learning.
